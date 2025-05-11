@@ -7,13 +7,11 @@
 <h3 align="center">DevOps & SRE Engineer | AWS, Terraform & GitHub Actions | CI/CD, Kubernetes | Cloud Technologist</h3>
 
 <p align="center">
-  <a href="https://github.com/jaiswaladi246">
+  <a href="https://github.com/mushfequezihan">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
-  </a>
-  <a href="https://linkedin.com/in/adityajaiswal7">
+ 
+  <a href="www.linkedin.com/in/mushfequezihan">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
