@@ -4,7 +4,7 @@
   <img src="https://github.com/mushfequezihan/mushfequezihan/blob/main/banner.png" alt="">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer. I work in the Corporate IT Sector with 8+ years of experience automating secure CI/CD pipelines, optimizing AWS cloud infrastructure, and improving system reliability with Kubernetes, Terraform, and monitoring tools like Prometheus, Grafana, and Splunk.</h3>
+<h3 align="center">DevOps & SRE Engineer | AWS, Terraform & GitHub Actions | CI/CD, Kubernetes, Observability | Cloud Technologist</h3>
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
