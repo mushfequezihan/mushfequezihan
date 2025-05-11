@@ -9,15 +9,10 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
+- 📫 How to reach me **mushfeque.zihan@gmail.com**
 
 ---
-
 <h3 align="left">Connect with me: <a href="www.linkedin.com/in/mushfequezihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></h3>
-<p align="left">
-  
-</p>
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
