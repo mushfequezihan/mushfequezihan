@@ -39,11 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mushfequezihan&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 ---
-### 🔥 GitHub Contribution Streak
 
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-
----
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mushfequezihan&limit=5&theme=flat&combine_all_yearly_contributions=true)
@@ -52,9 +48,8 @@
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
+🎤 Available for **Guest Sessions / New Opportunities**  
+🤝 Open to **Project Collaborations**  
 💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
 
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+> *"Let’s build and automate the future, one pipeline at a time!"*
