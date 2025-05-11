@@ -4,7 +4,7 @@
   <img src="https://github.com/mushfequezihan/mushfequezihan/blob/main/banner.png" alt="">
 </div>
 
-<h3 align="center">DevOps & SRE Engineer | AWS, Terraform & GitHub Actions | CI/CD, Kubernetes, Observability | Cloud Technologist</h3>
+<h3 align="center">DevOps & SRE Engineer | AWS, Terraform & GitHub Actions | CI/CD, Kubernetes | Cloud Technologist</h3>
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
