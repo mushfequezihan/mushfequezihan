@@ -6,15 +6,6 @@
 
 <h3 align="center">DevOps & SRE Engineer | AWS, Terraform & GitHub Actions | CI/CD, Kubernetes | Cloud Technologist</h3>
 
-<p align="center">
-  <a href="https://github.com/mushfequezihan">
-    <img src="https://github.com/mushfequezihan/mushfequezihan/blob/main/github.png" />
-  </a>
-  <a href="www.linkedin.com/in/mushfequezihan">
-    <img src="https://github.com/mushfequezihan/mushfequezihan/blob/main/linkedin.png" />
-  </a>
-</p>
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
