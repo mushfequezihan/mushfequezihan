@@ -1,29 +1,10 @@
-## Hi there 👋
-
-
-**mushfequezihan/mushfequezihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
-
-
-
 <h1 align="center">Hi there 👋, I'm Mushfeque Zihan</h1>
 
 <div align="center">
   <img src="https://github.com/mushfequezihan/mushfequezihan/blob/main/banner.png" alt="">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">A passionate DevOps Engineer. I work in the Corporate IT Sector with 8+ years of experience automating secure CI/CD pipelines, optimizing AWS cloud infrastructure, and improving system reliability with Kubernetes, Terraform, and monitoring tools like Prometheus, Grafana, and Splunk.</h3>
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
