@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mushfeque Zihan</h1>
+<h1 align="center">Hi there 👋, I'm Mushfeque</h1>
 
 <div align="center">
   <img src="https://github.com/mushfequezihan/mushfequezihan/blob/main/banner.png" alt="">
