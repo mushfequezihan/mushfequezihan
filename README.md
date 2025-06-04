@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://www.credly.com/badges/01f541ca-762a-47fe-ae0b-8e994f32ff24">
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" height="150">
+  <img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="150" height="150">
 </a>
 
 <a href="https://learn.microsoft.com/en-us/users/mushfequezihan-4196/credentials/51762a149847cdfd?ref=https%3A%2F%2Fwww.linkedin.com%2F">
