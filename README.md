@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### AWS Certifications
+### Certifications 
 <a href="https://www.credly.com/badges/8d6040f5-6c93-4f18-bcc9-d8378949180b">
   <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" height="150">
 </a>
