@@ -7,6 +7,19 @@
 <h3 align="center">DevOps & SRE Engineer | AWS, Terraform & GitHub Actions | CI/CD, Kubernetes | Cloud Technologist</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### AWS Certifications
+<a href="https://www.credly.com/badges/8d6040f5-6c93-4f18-bcc9-d8378949180b">
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" height="150">
+</a>
+
+<a href="https://www.credly.com/badges/01f541ca-762a-47fe-ae0b-8e994f32ff24">
+  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" height="150">
+</a>
+
+<a href="https://learn.microsoft.com/en-us/users/mushfequezihan-4196/credentials/51762a149847cdfd?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+  <img src="https://images.credly.com/size/80x80/images/441d84cf-c14d-4f56-ad8a-d172d04843bb/converted20250510-27-sye2jr.png" width="150" height="150">
+</a>
  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
 - 📫 How to reach me **mushfeque.zihan@gmail.com**
