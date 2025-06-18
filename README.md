@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://learn.microsoft.com/en-us/users/mushfequezihan-4196/credentials/51762a149847cdfd?ref=https%3A%2F%2Fwww.linkedin.com%2F">
-  <img src="https://images.credly.com/size/80x80/images/441d84cf-c14d-4f56-ad8a-d172d04843bb/converted20250510-27-sye2jr.png" width="150" height="150">
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="150" height="150">
 </a>
  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
