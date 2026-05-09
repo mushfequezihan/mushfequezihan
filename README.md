@@ -25,10 +25,10 @@
 
 ### 🚀 About Me
 
-*   🔭 **Current Focus:** Managing enterprise-scale Kubernetes (OpenShift) and IaC (Terraform).
-*   💬 **Ask me about:** CI/CD optimization, DevSecOps, and scaling cloud infrastructure.
+*   🔭 **Current Focus:** Managing enterprise-scale Kubernetes (Multi-Cloud aws/azure/openshift) and IaC (Terraform).
+*   💬 **Ask me about:** CI/CD optimization, DevSecOps, and scaling Cloud Infrastructure.
 *   📫 **How to reach me:** [mushfeque.zihan@gmail.com](mailto:mushfeque.zihan@gmail.com)
-*   ⚡ **Fun Fact:** I automate everything—from production deployments to my personal budget.
+*   ⚡ **Fun Fact:** I automate everything from production deployments to my personal budget.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mushfequezihan" target="blank">
