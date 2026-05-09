@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <b>DevOps Infrastructure Engineer at Bank of America | MS in Software Engineering (DevOps) | Cloud & Automation Specialist</b>
+  <b>DevOps Infrastructure Engineer at Bank of America | MS in Software Engineering | Cloud & Automation Specialist</b>
 </p>
 
 ---
@@ -15,6 +15,7 @@
 <a href="https://www.credly.com/badges/8d6040f5-6c93-4f18-bcc9-d8378949180b" target="_blank">
   <img src="1746905954963.jpeg" width="500" height="500">
 </a>
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>
 
 *   **M.S. in Software Engineering (DevOps)** - Western Governors University (2026)
@@ -23,7 +24,6 @@
 ---
 
 ### 🚀 About Me
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 *   🔭 **Current Focus:** Managing enterprise-scale Kubernetes (OpenShift) and IaC (Terraform).
 *   💬 **Ask me about:** CI/CD optimization, DevSecOps, and scaling cloud infrastructure.
