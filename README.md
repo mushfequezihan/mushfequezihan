@@ -40,7 +40,7 @@
 
 ### 🛠 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,terraform,jenkins,argocd,docker,python,bash,linux,maven,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,openshift,terraform,jenkins,githubactions,argocd,ansible,docker,prometheus,grafana,py,bash,linux,maven,ae&perline=9"" />
 </p>
 
 ---
