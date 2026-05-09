@@ -46,14 +46,6 @@
 ---
 
 ### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mushfequezihan&show_icons=true&theme=vue&hide_border=true&count_private=true&cache_seconds=1800" alt="Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mushfequezihan&layout=compact&theme=vue&hide_border=true&cache_seconds=1800" alt="Top Langs" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mushfequezihan&theme=vue&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mushfequezihan&theme=vue&hide_border=true" alt="Streak Stats" />
