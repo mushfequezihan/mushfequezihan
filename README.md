@@ -13,13 +13,7 @@
 ### 🎓 Education & Certifications 
 <p align="left">
 <a href="https://www.credly.com/badges/8d6040f5-6c93-4f18-bcc9-d8378949180b" target="_blank">
-  <img src="1746905954963.jpeg" width="100" height="100">
-</a>
-<a href="https://www.credly.com/badges/01f541ca-762a-47fe-ae0b-8e994f32ff24" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="100" height="100">
-</a>
-<a href="https://learn.microsoft.com/en-us/users/mushfequezihan-4196/credentials/51762a149847cdfd" target="_blank">
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100" height="100">
+  <img src="1746905954963.jpeg" width="500" height="500">
 </a>
 </p>
 
